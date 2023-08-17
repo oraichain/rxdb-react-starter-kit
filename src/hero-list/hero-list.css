@@ -1,0 +1,12 @@
+#heroes-list {
+  width: 100%;
+}
+
+.actions {
+  float: right;
+  cursor: pointer;
+}
+
+.actions .delete {
+  color: red;
+}
